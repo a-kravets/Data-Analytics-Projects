@@ -1,4 +1,4 @@
-# Description
+# Calculating Monthly Recurring Revenue (MRR) and Churn
 
 **Monthly Recurring Revenue (MRR)**
 
