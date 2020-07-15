@@ -6,6 +6,22 @@ in last 12M (months) or earlier and has ordered once in last 12M, what is the li
 We should be able to compare customers that bought once, twice or more. Then we should also be able to see the difference between
 customers that were acquired in last 12-24M (and earlier) that also ordered 1, 2, 3 or more times. The report must have results shown in order numbers and revenue.
 
+# Datasource
+
+All the data are stored in Google BigQuery.
+
+Our target dataset contains two tables
+
+* `sales`
+  * sale_timestamp (TIMESTAMP)
+  * customer_id	(BYTES)	
+  * sale_amount	(FLOAT)	
+  * product_id	(STRING)	
+* `sales_aquisition_frequency`
+  * customer_id	(BYTES)	
+  * aq_year	(STRING)	
+  * aq_freq	(STRING)	
+
 # Purchasing Likelihood
 
 Our Purchasing Likelihood figure based on Purchase Frequency, which as a metric that shows the average number of times a customer makes a purchase within a set time frame.
