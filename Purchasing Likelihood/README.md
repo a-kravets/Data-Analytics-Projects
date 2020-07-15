@@ -10,7 +10,7 @@ customers that were acquired in last 12-24M (and earlier) that also ordered 1, 2
 
 All the data are stored in Google BigQuery.
 
-Our target dataset contains two tables
+Our target dataset contains two tables:
 
 * `sales`
   * sale_timestamp (TIMESTAMP)
