@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-We want tp prepare a report for evaluating customers purchase likelihood based on acquisition time. The main question the report should answer is, if someone that was acquired
+We want to prepare a report for evaluating customers purchase likelihood based on acquisition time. The main question the report should answer is, if someone that was acquired
 in last 12M (months) or earlier and has ordered once in last 12M, what is the likelihood of ordering again in next 12M.
 
 We should be able to compare customers that bought once, twice or more. Then we should also be able to see the difference between
