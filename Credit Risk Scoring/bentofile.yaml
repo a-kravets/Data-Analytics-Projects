@@ -1,0 +1,11 @@
+service: "service.py:svc" # Specify entrypoint and service name
+labels: # Labels related to the project for reminder (the provided labels are just for example)
+  owner: bentoml-team
+  project: gallery
+include:
+- "*.py" # A pattern for matching which files to include in the bento build
+python:
+  packages: # Additional pip packages required by the service
+    - xgboost # for the model
+    - scikit-learn # we need it for DictVectorizer we're using
+# https://docs.bentoml.org/en/latest/concepts/bento.html
