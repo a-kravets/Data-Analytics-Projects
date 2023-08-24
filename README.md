@@ -2,7 +2,7 @@
 
 * [Car Price Prediction](https://github.com/a-kravets/Data-Analytics-Projects/tree/master/Car%20Price%20Prediction)
 * [Churn Prediction](https://github.com/a-kravets/Data-Analytics-Projects/tree/master/Churn%20Prediction)
-* [Clothing Classification](https://github.com/a-kravets/Data-Analytics-Projects/tree/master/Clothisng%20Classification)
+* [Clothing Classification](https://github.com/a-kravets/Data-Analytics-Projects/tree/master/Clothing%20Classification)
 * [Cohort Retention](https://github.com/a-kravets/Data-Analytics-Projects/tree/master/Cohort%20Retention)
 * [Credit Risk Scoring](https://github.com/a-kravets/Data-Analytics-Projects/tree/master/Credit%20Risk%20Scoring)
 * [Kaggle YouTube new](https://github.com/a-kravets/Data-Analytics-Projects/tree/master/Kaggle%20YouTube%20new)
